@@ -1,9 +1,12 @@
 <h1> Portfólio </h1>
 <hr>
+<br>
   Antes de começar a falar sobre o projeto, é bom ressaltar que eu optei por não utilizar o bootstrap, apesar de faciulitar em alguns quesitos, ele impunha algumas limitações 
 que eu não estava disposto a acatar.
 <br>
+<br>
 E eu sei que meu projeto final ficou um pouco diferente do modo como se esperava o portfólio, mas eu decidi focar no conceito que eu escolhi e abrir mão de algumas coisas.
+ <br>
  <br>
   Nesse projeto, eu optei por um visual minimalista, apelando para as cores do tema monokai, o meu preferido no VScode e o que eu considero mais bonito. <br>
 Acho, na verdade, estéticamente muito agradavel, por isso eu construí o portfólio como se fosse uma pagina do VScode.
