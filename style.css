@@ -242,3 +242,9 @@ h3 {
 #sus2 {
   color: #fd971f;
 }
+iframe {
+  margin-top: 3vh;
+  margin-left: 5vw;
+  height: 60vh;
+  width: 60vw;
+}
