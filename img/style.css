@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #4c4a3e;
+  font-family: monospace;
+  color: #f8f8f2;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 80vw;
+}
+.pedro {
+  margin-top: 2vh;
+  margin-left: 7vw;
+  color: #ee256c;
+  font-size: 500%;
+}
+.curriculo {
+  margin-top: 5vh;
+  margin-right: 10vh;
+  color: #a6e22e;
+  margin-left: 5vw;
+  font-size: 800%;
+}
+main {
+  border-top: 1px solid #a6e22e;
+  border-left: 1px solid #a6e22e;
+  width: 80vw;
+  margin-left: auto;
+  margin-right: auto;
+  height: fit-content;
+}
+.menu {
+  height: 7vh;
+  width: 75vw;
+  background-color: #75715e;
+  margin-left: 2vw;
+  margin-top: 1vh;
+}
+.nav {
+  display: flex;
+}
+.nav-item {
+  list-style-type: none;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2vh;
+  font-size: x-large;
+}
+.cor2 {
+  background-color: #75715e;
+}
+menu .centro {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 80vw;
+  margin: 0 auto;
+  padding: 0 2%;
+}
+header {
+  padding: 20px 0;
+}
+.subtitulo-cor {
+  color: #ee256c;
+}
+.subtitulo {
+  margin-top: 4vh;
+  margin-left: 2vh;
+  font-size: 250%;
+}
+h3 {
+  font-size: x-large;
+  margin-left: 2vw;
+  margin-top: 12vh;
+}
+.subtitulo-cor2 {
+  color: #ade2e3;
+}
+.cont-main {
+  border-left: 1px solid #f8f8f2;
+  height: fit-content;
+  margin-left: 3vw;
+
+  width: 60vw;
+}
+.cont-sub {
+  border-left: 1px solid #f8f8f2;
+  margin-left: 2vw;
+}
+.cont {
+  color: #d5c141;
+  margin-top: 3vh;
+  margin-left: 4vw;
+  font-size: x-large;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.cont-2 {
+  color: #d5c141;
+  margin-top: 3vh;
+  margin-left: 4vw;
+  font-size: large;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.marcador {
+  color: #ae81ff;
+}
+.marcador2 {
+  color: #66d9ef;
+}
+.small {
+  font-size: large;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 35vw 35vw;
+  grid-template-rows: 50% 50%;
+  border-left: 1px solid #f8f8f2;
+  justify-content: space-around;
+
+  margin-left: 3vw;
+}
+.grid div {
+  height: 20vh;
+  width: 35vw;
+  background-color: #75715e;
+  margin-left: 0.2vw;
+  margin-top: 0.5vh;
+}
+.logo {
+  width: 50%;
+}
