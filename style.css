@@ -72,8 +72,7 @@ nav .menu ul li ul {
 .menu ul li:hover ul {
   display: block;
 }
-.menu ul li ul li a {
-}
+
 .menu ul li ul li a:hover {
   color: #66d9ef;
 }
